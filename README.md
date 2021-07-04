@@ -30,4 +30,5 @@ Create a 5-page website <br>
 ▪ CSS3<br>
 ▪ JavaScript<br>
 ▪ Bootstrap 4<br>
-▪ jQuery
+▪ jQuery<br><br>
+To look for work done by students, search for repositories with same name.
